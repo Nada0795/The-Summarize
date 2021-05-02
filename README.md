@@ -6,6 +6,6 @@ and i learned about The Markdown it is like a library that contain of sympols so
 The Markdown is easier to use than HTML and i learned how to use some sympol of Markdown like:**
 - for heading (#)
 - for add img ! [] () 
-- for add link [] (link)
+- for add link [] ()
 - for bold text ( ** )
 - for mistake text ( ~~ ~~ )
